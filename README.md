@@ -22,7 +22,7 @@ A ticket dashboard that fetches tickets and users from an API and organizes work
 
 `React` · `JavaScript` · `REST API integration` · `CSS`
 
-[Explore the repository →](https://github.com/ShAdOwMoNaRcH29/kanban-react) &nbsp; [View the data flow →](https://github.com/ShAdOwMoNaRcH29/kanban-react/blob/main/src/App.js)
+[Try the live demo →](https://shadowmonarch29.github.io/kanban-react/) &nbsp; [Explore the repository →](https://github.com/ShAdOwMoNaRcH29/kanban-react) &nbsp; [View the data flow →](https://github.com/ShAdOwMoNaRcH29/kanban-react/blob/main/src/App.js)
 
 #### 02 / Python Classification Notebooks
 
